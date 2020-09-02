@@ -116,6 +116,7 @@ class LaserWeaponArmory(Scene):
         """))
 
         code = f"{randint(1, 9)}{randint(1, 9)}{randint(1, 9)}"
+        print(code)
         guess = input("[keypad]> ")
         guesses = 0
 
@@ -200,6 +201,7 @@ class EscapePod(Scene):
         """))
 
         good_pod = randint(1,5)
+        print(good_pod)
         guess = input("[pod#]> ")
 
 
