@@ -237,7 +237,7 @@ def chicago():
     \"...but Doctor Angell... I've completed all the assignments, don't you want me to...\"
     
     \"Wait a minute Cortney. You know you need to pass my final to get credit. Just
-    show up for a change. You're a smart girl. You'll do fine.\")
+    show up for a change. You're a smart girl. You'll do fine.\"
 
     Sigh, \"Whatever professor. Someday you'll regret not... helping me.\" Cortney bounces
     off toward the parking lot and the whole world seems to pause until she's out of sight.
@@ -345,7 +345,7 @@ def run():
 
     You start to sit up and notice you're surrounded by... what? WHAT!?! There's about 
     fifteen individuals in a circle around you. You gasp as you get a better look at them. 
-    They're about six feet tall and look like fish people. You mind reels as you realize 
+    They're about six feet tall and look like fish people. Your mind reels as you realize 
     these are... fish people. They move towards you in unison.
 
     The fish people reach out with human arms and webbed fingers. They pick you up, and 
@@ -383,9 +383,9 @@ def run():
     
     You start to rise as the first of the fish things is on you. You roll 
     to your left as it reaches out with it's iron grip, slips, loses its balance, and 
-    crashes into thing you just ran into. Chicago style vonit! Other fish men slide and 
+    crashes right into thing you just ran into. Chicago style vomit! Other fish men slide and 
     smash into what must be a support pole. You start running again just as you hear a 
-    load crack form the area of the pole, and the building begins to crumble around you.
+    load crack from the area of the pole, and the building begins to crumble around you.
     
     You make it outside and keep running as fast as you can as you hear, what sounds like, 
     the roof of the building caving in. You quickly check over your shoulder and you can't
